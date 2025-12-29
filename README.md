@@ -32,21 +32,21 @@ etc. with appropriate weightage.
 ## 📝 List of Assignments
 
 | No. | Assignment Title | Start Dates | End Dates |
-|-----:|------------------|
-| 01 | Using Basic HTML Elements |29 Spet 2025| 30 Sept 2025 |
-| 02 | Creating Lists using HTML Tags |29 Spet 2025| 30 Sept 2025 |
-| 03 | Creating Hyperlinks and Images in HTML |29 Spet 2025| 30 Sept 2025 |
-| 04 | Creating Tables using HTML Tags |29 Spet 2025| 30 Sept 2025 |
-| 05 | Creating Forms using HTML |29 Spet 2025| 30 Sept 2025 |
-| 06 | Designing HTML Screens using CSS |29 Spet 2025| 30 Sept 2025 |
-| 07 | Using Functions in JavaScript |29 Spet 2025| 30 Sept 2025 |
-| 08 | Using JavaScript Functions for Arithmetic Operations |29 Spet 2025| 30 Sept 2025 |
-| 09 | Carrying Out Validation using JavaScript |29 Spet 2025| 30 Sept 2025 |
-| 10 | Using Event Handling in JavaScript |29 Spet 2025| 30 Sept 2025 |
-| 11 | Creating Frames in HTML |29 Spet 2025| 30 Sept 2025 |
-| 12 | Designing a Website using Basic HTML, CSS & JavaScript |29 Spet 2025| 30 Sept 2025 |
-| 13 | Designing a Website using Advanced JavaScript and Event Handling |29 Spet 2025| 30 Sept 2025 |
-| 14 | Designing a Website using Advanced JavaScript and Event Handling |29 Spet 2025| 30 Sept 2025 |
+|-----:|------------------|------------------|------------------|
+| 01 | Using Basic HTML Elements |29 Spet 2025|30 Sept 2025 |
+| 02 | Creating Lists using HTML Tags |01 Oct 2025|09 Oct 2025 |
+| 03 | Creating Hyperlinks and Images in HTML |13 Oct 2025|27 Oct 2025 |
+| 04 | Creating Tables using HTML Tags |28 Oct 2025| 01 Nov 2025 |
+| 05 | Creating Forms using HTML |04 Nov 2025|10 Nov 2025 |
+| 06 | Designing HTML Screens using CSS |11 Nov 2025|17 Nov 2025 |
+| 07 | Using Functions in JavaScript |18 Nov 2025|24 Nov 2025 |
+| 08 | Using JavaScript Functions for Arithmetic Operations |25 Nov 2025| 01 Dec 2025 |
+| 09 | Carrying Out Validation using JavaScript |04 Dec 2025| 10 Dec 2025 |
+| 10 | Using Event Handling in JavaScript |11 Dec 2025|16 Dec 2025 |
+| 11 | Creating Frames in HTML |-| - |
+| 12 | Designing a Website using Basic HTML, CSS & JavaScript |-| - |
+| 13 | Designing a Website using Advanced JavaScript and Event Handling |-|- |
+| 14 | Designing a Website using Advanced JavaScript and Event Handling |-| - |
 
 ## Reference Books:
 1. Steven Holzner, HTML Black Book, Dremtech press.
