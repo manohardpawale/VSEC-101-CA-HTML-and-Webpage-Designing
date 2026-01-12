@@ -44,7 +44,7 @@ etc. with appropriate weightage.
 | 09 | Carrying Out Validation using JavaScript |04 Dec 2025| 10 Dec 2025 |
 | 10 | Using Event Handling in JavaScript |11 Dec 2025|15 Dec 2025 |
 | 11 | Creating Frames in HTML |16 Dec 2025|18 Dec 2025 |
-| 12 | Designing website Page using basic elements of HTML, CSS and JavaScript |22 Dec 2025|24 Dec 2025 |
+| 12 | Designing webPage using basic elements of HTML, CSS & JavaScript |22 Dec 2025|24 Dec 2025 |
 | 13 | Designing a Website using Advanced JavaScript and Event Handling |29 Dec 2025|13 Jan 2026 |
 | 14 | Debugging and Capturing Screenshots Using Chrome Developer Tools |14 Jan 2026|14 Jan 2026 |
 
